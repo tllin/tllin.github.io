@@ -92,7 +92,8 @@ footer{
 }
 
 a{
-     text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
     color: white;
     text-decoration: none;
     padding: 0px;
